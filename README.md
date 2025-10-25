@@ -1,4 +1,4 @@
-# Samson Adventure 
+# Simson Adventure 
 A simple platformer game built with HTML, CSS, and vanilla JavaScript.
 # How to Play
 Start Game: Press any key To Start the Game.
