@@ -1,0 +1,49 @@
+h1{
+    margin-left: 36%;
+    color:deeppink;
+}
+body {
+    background-image: url('image.jpg');
+    background-size: cover;
+}
+h3{
+    margin-left: 33%;
+    color:azure;
+}
+#outer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 32%;
+    height: 270px;
+    width: 270px;
+}
+.inner {
+    height: 35%;
+    width: 37%;
+    border: 5px solid black;
+    border-radius: 12px;
+}
+#one {
+    background-color:palevioletred;
+}
+#two{
+    background-color:orange;
+}
+#three{
+    background-color:cadetblue;
+}
+#four{
+    background-color:cornflowerblue;
+}
+.color{
+  background-color:aliceblue !important;
+}
+.userFlash{
+  background-color: red !important;
+}
+.gameOver{
+  background-color: red !important;
+  background-image: none;
+}
