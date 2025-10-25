@@ -1,7 +1,7 @@
 # Samson Adventure 
 A simple platformer game built with HTML, CSS, and vanilla JavaScript.
 # How to Play
-Start Game: Click or tap the Start button to begin the game.
+Start Game: Press any key To Start the Game.
 <br>
 Repeat Sequence: Click or tap the colored panels in the exact order they flashed.
 <br>
@@ -12,6 +12,8 @@ The player must click or tap the corresponding color to repeat the pattern.
 After the player successfully repeats the sequence, the game adds another color to the end of the pattern, making it longer and more complex.
 <br>
 The game continues until the player makes a mistake, at which point the game is over.
+<br>
+After the Game finish, it Display Highest score
 <br>
 <br>
 # Front-end
