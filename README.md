@@ -27,5 +27,3 @@ CSS3:
 <br>
 JavaScript : 
 <br>For the game logic and interactivity.
-<br>
-<br
